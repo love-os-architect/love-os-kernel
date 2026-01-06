@@ -6,7 +6,7 @@
    > STATUS:  Research Preview
    > LICENSE: MIT
 ================================================================================
-![Love-OS Vision-to-Product Concept Map](concept_map.png)
+![Love-OS Vision-to-Product Concept Map](concept_map.png.png)
 [ 1. ABSTRACT ]
 
 Love-OS formalizes the "Musubi Triad" (Bond/Gen/Keep) into computable metrics.
